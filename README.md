@@ -1,4 +1,7 @@
 # Streamlit-app-ML-Light-vs-Dark-Mode-study
+
+🚀 [Click here to try the live app](https://app-app-ml-light-vs-dark-mode-study-su6ppdsxdsj9bevzwwzgwv.streamlit.app/)
+
 A Streamlit app and machine learning study exploring how light vs dark mode affects user performance on digital tasks.
 
 This is an interactive web application built using **Streamlit** that integrates machine learning models and a data dashboard. The app allows users to explore data, retrain models, and visualize results all from a browser.
