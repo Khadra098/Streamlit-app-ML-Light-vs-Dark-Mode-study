@@ -1,0 +1,47 @@
+participant_id,age_group,gender,device_usage_frequency,primary_use,usual_mode,eye_strain_experience,mode_choice_factors,comfort_light,comfort_dark,eye_strain_light,eye_strain_dark,focus_light,focus_dark,frustration_light,frustration_dark,satisfaction_light,satisfaction_dark,performance_diff,daily_screen_time,preferred_mode,task_time_light_sec,typos_light,task_time_dark_sec,typos_dark,breaks_taken
+P001,65 or older,Male,Occasionally,Other,Light mode,Both,Visual comfort,1,4,5,5,5,2,1,5,5,5,5,10+h,light,100.0,3,99.5,3,0
+P002,35–44,Other,Very frequently,Other,Light mode,None,Visual comfort,1,3,5,3,4,2,5,5,4,2,4,<1h,light,93.6,1,117.7,3,0
+P003,45–54,Other,Very frequently,Entertainment,No preference,None,Personal preference,4,4,1,3,1,4,2,3,1,5,2,<1h,dark,101.5,2,109.1,5,0
+P004,65 or older,Male,Very frequently,Other,Light mode,Both,Personal preference,4,2,5,5,5,1,4,5,1,3,4,10+h,light,110.2,2,83.8,8,0
+P005,25–34,Male,Rarely,Creative activities,Switch depending on context,None,Personal preference,5,2,5,4,1,5,5,2,2,3,2,10+h,dark,92.7,0,108.9,4,0
+P006,45–54,Other,Occasionally,Other,Light mode,Both,Platform,5,3,5,3,3,5,5,3,4,3,5,7–9h,dark,92.7,2,100.4,1,0
+P007,45–54,Female,Occasionally,Entertainment,Dark mode,Dark mode,Visual comfort,3,1,3,1,1,2,5,5,2,3,2,4–6h,dark,110.8,2,96.9,3,0
+P008,65 or older,Prefer not to say,Very frequently,Entertainment,Dark mode,Both,Platform,4,2,4,1,1,1,5,1,2,1,3,<1h,dark,102.7,3,112.3,0,0
+P009,18–24,Male,Very frequently,Creative activities,No preference,Both,Personal preference,1,5,2,2,1,2,5,2,2,3,3,4–6h,dark,90.3,1,117.4,0,0
+P010,25–34,Prefer not to say,Rarely,Social media and communication,Dark mode,Both,Visual comfort,5,2,3,3,4,3,3,2,3,4,3,4–6h,light,100.4,0,116.2,2,0
+P011,65 or older,Female,Very frequently,Social media and communication,Switch depending on context,None,Platform,5,2,5,4,1,2,4,2,3,4,3,10+h,dark,90.4,2,94.9,4,0
+P012,25–34,Female,Very frequently,Other,Light mode,None,Platform,1,1,1,5,5,2,5,3,2,1,4,7–9h,light,90.3,2,101.3,1,0
+P013,25–34,Female,Very frequently,Work or study,No preference,Both,Personal preference,5,4,5,5,3,5,4,5,4,3,5,1–3h,light,97.4,1,109.0,5,0
+P014,45–54,Male,Very frequently,Other,Light mode,None,Visual comfort,3,2,4,4,3,5,3,5,1,3,2,7–9h,dark,75.9,3,116.7,3,1
+P015,35–44,Female,Very frequently,Creative activities,Light mode,Light mode,Personal preference,4,3,5,2,1,5,3,1,4,3,2,7–9h,dark,77.8,2,99.2,0,0
+P016,25–34,Male,Very frequently,Creative activities,Switch depending on context,Light mode,Visual comfort,1,4,1,5,4,3,4,1,5,5,3,4–6h,dark,89.4,3,102.8,4,0
+P017,55–64,Female,Very frequently,Creative activities,Dark mode,None,Other,4,5,4,3,4,5,1,2,3,2,3,7–9h,dark,84.9,2,91.7,1,0
+P018,45–54,Prefer not to say,Very frequently,Creative activities,Dark mode,None,Battery life,5,1,5,2,5,1,2,1,1,5,1,<1h,light,98.1,0,90.6,6,0
+P019,18–24,Prefer not to say,Very frequently,Creative activities,Light mode,Both,Battery life,5,5,4,3,1,4,1,3,1,2,5,4–6h,dark,85.9,2,114.8,3,0
+P020,35–44,Other,Very frequently,Entertainment,No preference,Dark mode,Battery life,1,4,2,1,3,1,1,5,5,3,4,<1h,light,80.9,1,121.3,1,0
+P021,55–64,Prefer not to say,Occasionally,Social media and communication,Dark mode,None,Personal preference,3,4,2,2,4,1,1,2,5,3,2,1–3h,light,109.7,1,104.1,1,1
+P022,55–64,Other,Occasionally,Creative activities,No preference,Light mode,Other,2,4,5,5,1,5,5,1,2,5,1,4–6h,dark,92.7,3,117.0,0,1
+P023,18–24,Prefer not to say,Very frequently,Work or study,Dark mode,Both,Visual comfort,1,5,4,2,4,4,3,3,3,5,1,1–3h,dark,95.7,1,109.3,3,0
+P024,35–44,Male,Rarely,Work or study,No preference,None,Platform,2,4,1,2,4,4,1,3,3,2,2,4–6h,light,80.8,4,97.3,2,0
+P025,45–54,Prefer not to say,Very frequently,Work or study,Switch depending on context,Light mode,Visual comfort,2,5,5,2,3,4,3,1,4,4,4,10+h,dark,89.6,2,109.3,4,1
+P026,35–44,Other,Occasionally,Entertainment,Switch depending on context,Dark mode,Visual comfort,2,3,2,3,5,5,2,1,2,5,1,10+h,dark,96.1,0,123.5,5,0
+P027,18–24,Female,Very frequently,Work or study,Switch depending on context,Both,Other,2,4,5,1,5,4,4,2,2,5,5,1–3h,dark,83.5,4,104.6,1,0
+P028,55–64,Male,Very frequently,Creative activities,No preference,Both,Platform,3,5,4,4,3,3,4,1,2,1,4,7–9h,dark,98.8,5,123.8,0,1
+P029,45–54,Prefer not to say,Very frequently,Other,Switch depending on context,Dark mode,Personal preference,2,2,2,2,4,2,5,3,3,5,1,4–6h,dark,89.0,2,73.6,5,0
+P030,35–44,Female,Very frequently,Work or study,Light mode,Dark mode,Visual comfort,2,4,4,5,1,2,2,1,3,1,4,7–9h,dark,92.1,0,114.9,5,0
+P031,25–34,Female,Very frequently,Work or study,No preference,None,Personal preference,1,1,3,3,5,5,2,1,1,2,1,<1h,dark,89.0,0,106.0,1,0
+P032,25–34,Female,Very frequently,Other,Light mode,None,Personal preference,1,3,2,5,4,5,2,5,1,1,5,7–9h,light,113.5,1,101.4,0,0
+P033,65 or older,Female,Very frequently,Work or study,No preference,Dark mode,Other,3,4,1,4,5,2,4,5,4,2,2,<1h,light,94.9,1,106.1,2,0
+P034,18–24,Female,Rarely,Entertainment,Dark mode,None,Personal preference,5,2,5,1,1,4,2,3,2,5,4,1–3h,dark,84.4,2,81.1,2,0
+P035,35–44,Female,Occasionally,Social media and communication,Dark mode,Light mode,Personal preference,2,2,5,5,5,2,4,5,3,3,2,10+h,light,103.2,2,102.4,2,0
+P036,35–44,Prefer not to say,Occasionally,Creative activities,Dark mode,None,Personal preference,2,5,4,5,5,4,4,5,1,1,1,4–6h,dark,82.8,5,109.3,6,0
+P037,65 or older,Female,Very frequently,Entertainment,Switch depending on context,None,Battery life,3,2,2,1,2,4,5,5,5,2,4,7–9h,light,97.1,1,122.7,6,1
+P038,55–64,Male,Very frequently,Work or study,Switch depending on context,Light mode,Other,2,5,1,4,2,5,1,5,5,1,3,10+h,light,75.4,2,98.8,5,0
+P039,55–64,Other,Very frequently,Creative activities,No preference,Dark mode,Visual comfort,1,1,4,2,2,1,4,2,4,1,2,4–6h,dark,81.7,4,95.3,5,0
+P040,65 or older,Female,Occasionally,Work or study,No preference,Light mode,Platform,5,4,3,5,5,1,3,2,2,3,1,4–6h,light,97.0,1,99.0,0,1
+P041,55–64,Female,Very frequently,Work or study,Light mode,None,Visual comfort,4,5,4,1,3,3,1,3,1,5,5,<1h,dark,102.4,2,116.0,2,0
+P042,25–34,Prefer not to say,Very frequently,Social media and communication,Light mode,Dark mode,Other,2,1,4,3,5,5,1,1,2,1,4,1–3h,light,96.7,1,108.9,5,0
+P043,35–44,Female,Very frequently,Creative activities,No preference,None,Platform,1,2,2,1,3,4,1,5,1,2,2,1–3h,dark,93.8,4,98.6,5,0
+P044,65 or older,Female,Occasionally,Creative activities,Switch depending on context,Light mode,Other,4,2,3,3,3,1,5,1,4,4,2,10+h,light,92.0,5,111.2,1,0
+P045,35–44,Female,Very frequently,Social media and communication,Dark mode,Light mode,Personal preference,5,1,4,4,2,4,4,1,4,1,3,1–3h,light,80.2,2,106.2,4,0
+P046,25–34,Female,Very frequently,Work or study,Light mode,Both,Personal preference,1,1,1,1,1,1,4,5,2,3,5,1–3h,light,87.8,1,116.6,3,0
