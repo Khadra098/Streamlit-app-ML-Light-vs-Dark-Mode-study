@@ -383,7 +383,7 @@ elif selection == "📘 Study Summary & Results":
     """)
 
     # Load data
-    df = pd.read_csv("/Users/khadramahamoud/Documents/RESULTS/Final_Combined_All_Data.csv")
+    df = pd.read_csv("Final_Combined_All_Data.csv")
     df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
 
     # Feature engineering
